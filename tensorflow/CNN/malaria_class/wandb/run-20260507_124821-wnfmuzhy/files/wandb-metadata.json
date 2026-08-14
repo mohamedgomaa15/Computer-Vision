@@ -1,0 +1,24 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.12.10",
+  "startedAt":  "2026-05-07T09:48:21.230592Z",
+  "program":  "d:\\courses\\computervision\\computerVision\\tensorflow\\CNN\\malaria_class\\malaria_dev.ipynb",
+  "codePath":  "d:\\courses\\computervision\\computerVision\\tensorflow\\CNN\\malaria_class\\malaria_dev.ipynb",
+  "codePathLocal":  "malaria_dev.ipynb",
+  "email":  "mohamed.gomaa.mgk@gmail.com",
+  "root":  "d:\\courses\\computervision\\computerVision\\tensorflow\\CNN\\malaria_class",
+  "host":  "EG-LA021",
+  "executable":  "c:\\Users\\Mohamed.Gomaa\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "237736292352",
+      "used":  "48371294208"
+    }
+  },
+  "memory":  {
+    "total":  "34090029056"
+  },
+  "writerId":  "o93agiwne4whdxmufzeyf3i1ve8sr0rb"
+}

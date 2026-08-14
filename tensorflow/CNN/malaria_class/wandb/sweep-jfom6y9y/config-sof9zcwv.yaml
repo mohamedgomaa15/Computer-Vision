@@ -1,0 +1,24 @@
+wandb_version: 1
+
+batch_size:
+  value: 32
+cnn_kernel_regularizer:
+  value: 0.08658990030851085
+dense_kernel_regularizer:
+  value: 0.04116817860020864
+dropout_rate:
+  value: 0.1610036618941284
+image_size:
+  value: 224
+kernel_size:
+  value: 5
+learning_rate:
+  value: 0.009065023138731256
+num_filters:
+  value: 32
+pool_size:
+  value: 3
+unit_1:
+  value: 256
+unit_2:
+  value: 64

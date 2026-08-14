@@ -1,0 +1,80 @@
+_wandb:
+    value:
+        cli_version: 0.26.1
+        e:
+            o98zisdq65dvzz9hxxonsxt9idrntjn9:
+                codePath: d:\courses\computervision\computerVision\tensorflow\CNN\malaria_class\malaria_dev.ipynb
+                codePathLocal: malaria_dev.ipynb
+                cpu_count: 4
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "237736292352"
+                        used: "48371261440"
+                email: mohamed.gomaa.mgk@gmail.com
+                executable: c:\Users\Mohamed.Gomaa\AppData\Local\Programs\Python\Python312\python.exe
+                host: EG-LA021
+                memory:
+                    total: "34090029056"
+                os: Windows-11-10.0.26200-SP0
+                program: d:\courses\computervision\computerVision\tensorflow\CNN\malaria_class\malaria_dev.ipynb
+                python: CPython 3.12.10
+                root: d:\courses\computervision\computerVision\tensorflow\CNN\malaria_class
+                startedAt: "2026-05-07T09:46:44.336563Z"
+                writerId: o98zisdq65dvzz9hxxonsxt9idrntjn9
+        m:
+            - "1": epoch/epoch
+              "6":
+                - 3
+              "7": []
+            - "2": epoch/*
+              "5": 1
+              "6":
+                - 1
+              "7": []
+        python_version: 3.12.10
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+            "3":
+                - 2
+                - 7
+                - 14
+                - 38
+            "4": 3.12.10
+            "5": 0.26.1
+            "8":
+                - 1
+                - 3
+            "12": 0.26.1
+            "13": windows-amd64
+batch_size:
+    value: 32
+cnn_kernel_regularizer:
+    value: 0.027622678040428197
+dense_kernel_regularizer:
+    value: 0.08567365380069283
+dropout_rate:
+    value: 0.30131843639098466
+image_size:
+    value: 224
+kernel_size:
+    value: 5
+learning_rate:
+    value: 0.0003553866485415453
+num_filters:
+    value: 64
+pool_size:
+    value: 3
+unit_1:
+    value: 64
+unit_2:
+    value: 64

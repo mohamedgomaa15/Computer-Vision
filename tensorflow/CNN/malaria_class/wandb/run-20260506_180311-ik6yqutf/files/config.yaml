@@ -1,0 +1,59 @@
+_wandb:
+    value:
+        cli_version: 0.26.1
+        e:
+            c7onzc3a20irijlidllh5g6b4sp0jcoi:
+                codePath: d:\courses\computervision\computerVision\tensorflow\CNN\malaria_class\malaria_dev.ipynb
+                codePathLocal: malaria_dev.ipynb
+                cpu_count: 4
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "237736292352"
+                        used: "48288825344"
+                email: mohamed.gomaa.mgk@gmail.com
+                executable: c:\Users\Mohamed.Gomaa\AppData\Local\Programs\Python\Python312\python.exe
+                host: EG-LA021
+                memory:
+                    total: "34090029056"
+                os: Windows-11-10.0.26200-SP0
+                program: d:\courses\computervision\computerVision\tensorflow\CNN\malaria_class\malaria_dev.ipynb
+                python: CPython 3.12.10
+                root: d:\courses\computervision\computerVision\tensorflow\CNN\malaria_class
+                startedAt: "2026-05-06T15:03:11.080917Z"
+                writerId: c7onzc3a20irijlidllh5g6b4sp0jcoi
+        m:
+            - "1": epoch/epoch
+              "6":
+                - 3
+              "7": []
+            - "2": epoch/*
+              "5": 1
+              "6":
+                - 1
+              "7": []
+        python_version: 3.12.10
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+            "3":
+                - 2
+                - 7
+                - 13
+                - 38
+                - 39
+            "4": 3.12.10
+            "5": 0.26.1
+            "8":
+                - 1
+                - 3
+            "12": 0.26.1
+            "13": windows-amd64
